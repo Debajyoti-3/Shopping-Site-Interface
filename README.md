@@ -1,7 +1,7 @@
 
 ---
 
-# Amazon-UI 
+# Shopping-Site-Interface 
 
 Welcome to the Amazon.com UI Clone! This project is a front-end recreation of Amazon's homepage, crafted solely using HTML and CSS. It's designed to mimic the layout, styles, and elements of the Amazon website, providing a responsive, visually accurate replica for practice and learning purposes.
 
